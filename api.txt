@@ -1,10 +1,10 @@
-/komponenten/{id}
+/components/{id}
 {
   "id": "",
   "raum": "raum-id",
   "lieferant": "lieferant-id",
   ...
-  "attribute": [
+  "attributes": [
     {
       "id": "",
       "name": "",
@@ -16,11 +16,11 @@
 
 
 
-/komponentenarten/{id}
+/compinenttype/{id}
 {
   "id": "",
   "name": "",
-  "attribute": [
+  "attributes": [
     {
       "id": "",
       "name": "",
@@ -31,7 +31,7 @@
 
 
 
-/lieferanten/{id}
+/suppliers/{id}
 {
   "id": "",
   "firmenname": "",
@@ -41,7 +41,7 @@
 
 
 
-/raeume/{id}
+/rooms/{id}
 {
   "id": "",
   "nummer": "",
