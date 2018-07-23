@@ -38,3 +38,13 @@
   "strasse": "",
   ...
 }
+
+
+
+/raeume/
+{
+  "id": "",
+  "nummer": "",
+  "name": "",
+  "notiz": ""
+}
