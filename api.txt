@@ -1,0 +1,40 @@
+/komponenten/{id}
+{
+  "id": "",
+  "raum": "raum-id",
+  "lieferant": "lieferant-id",
+  ...
+  "attribute": [
+    {
+      "id": "",
+      "name": "",
+      "wert": "",
+    },
+    ...
+  ],
+}
+
+
+
+/komponentenarten/{id}
+{
+  "id": "",
+  "name": "",
+  "attribute": [
+    {
+      "id": "",
+      "name": "",
+    }
+    ...
+  ]
+}
+
+
+
+/lieferanten/{id}
+{
+  "id": "",
+  "firmenname": "",
+  "strasse": "",
+  ...
+}
