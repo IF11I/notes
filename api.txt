@@ -41,7 +41,7 @@
 
 
 
-/raeume/
+/raeume/{id}
 {
   "id": "",
   "nummer": "",
